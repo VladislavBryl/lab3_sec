@@ -1,5 +1,5 @@
 # Lab 3
 
-Install [nodejs](https://nodejs.org/uk/download/)
+Лабораторна робота №2 з дисципліни "Системи безпеки програм і даних"
 
-Start program `npm start`
+Бриль Владислав, ІО-93
